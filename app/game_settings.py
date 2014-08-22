@@ -210,22 +210,23 @@ def is_propose_question():
     return random.random() < (1.0 / 1000)
 
 def should_ask_question(nr_q_ans, nr_q_avail, level):
-    if nr_q_avail == 0:
-        if nr_q_ans > get_special_questions_showed(4):
-            # If the user answered question for level 4 already
-            # and no one else is playing, stop asking questions
-            return False
-        # Get more answers from users
-        return True
-    coeff = 2
-    if nr_q_ans > nr_q_avail:
-        coeff += nr_q_ans - nr_q_avail
-    for i in range(3):
-        if level + i <= MAX_LEVEL:
-            if nr_q_ans > get_special_questions_showed(level + i):
-                coeff += 1
+    return random.random() < 1.0/(31.69 * math.atan(level) / 2)
+    # if nr_q_avail == 0:
+    #     if nr_q_ans > get_special_questions_showed(4):
+    #         # If the user answered question for level 4 already
+    #         # and no one else is playing, stop asking questions
+    #         return False
+    #     # Get more answers from users
+    #     return True
+    # coeff = 2
+    # if nr_q_ans > nr_q_avail:
+    #     coeff += nr_q_ans - nr_q_avail
+    # for i in range(3):
+    #     if level + i <= MAX_LEVEL:
+    #         if nr_q_ans > get_special_questions_showed(level + i):
+    #             coeff += 1
 
-    return random.random() < (1.0 / coeff)
+    # return random.random() < (1.0 / coeff)
 
 def create_personal_question(st, college, level):
     context = {}
