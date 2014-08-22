@@ -16,9 +16,7 @@ from app.get_statistics import *
 import os
 import sys
 import json
-
-# Twill for CN login
-from twill import commands
+import requests
 
 
 from django.template import loader, RequestContext
@@ -257,23 +255,32 @@ def logout_action(request):
 
 
 def campusnet_login(l_username, l_password):
-    commands.go('https://campusnet.jacobs-university.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9PnS7.Eby4LCWWmmtOcbYKUQ-so-sF48wtHtVNWX9aIeYmoSh5mej--SCbT.jubdlAouHy3dHzwyr-O.ufj3NVAYCNiJr0CFcBNwA3xADclRCTyqC0Oip8drT0F=')
-    commands.fv('1', 'usrname', l_username)
-    commands.fv('1', 'pass', l_password)
-    commands.submit('3')
+    url = 'https://campusnet.jacobs-university.de/scripts/mgrqispi.dll'
+    # commands.go()
+    
 
-    out = sys.stdout
-    bin = open(os.devnull, 'w')
-    sys.stdout = bin
-    returned_page = commands.show()
-    sys.stdout = out
+    payload = {
+        'usrname': l_username, 
+        'pass': l_password,
+        "APPNAME": "CampusNet",
+        "PRGNAME": "LOGINCHECK",
+        "ARGUMENTS": "clino,usrname,pass,menuno,persno,browser,platform",
+        "clino": "000000000000001",
+        "menuno": "000084",
+        "persno": "00000000",
+        "browser": "",
+        "platform": ""
+    }
+    r = requests.post(url, data=payload)
+    # commands.fv('1', 'usrname', l_username)
+    # commands.fv('1', 'pass', l_password)
+    # commands.submit('0')
 
-    return returned_page
+    return r.content
 
 @login_required
 def admin_page(request):
-    if request.user.username != "dhasegan" and \
-        request.user.username != "uagha":
+    if request.user.username != "dhasegan":
         raise Http404
 
     context = {}
