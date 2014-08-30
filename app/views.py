@@ -211,6 +211,15 @@ def home(request):
 
     l_username = request.POST['user']
     # Uncomment this when testing is done
+    if l_username == "dhasegan":
+        user = authenticate(username=l_username, password=request.POST['pass'])
+        if user is None:
+            context['error'] = "Invalid login! Please try again!"
+            return render(request, "pages/home.html", context)
+        login(request, user)
+        return redirect('/admin')
+
+
     cn_page = campusnet_login(request.POST['user'], request.POST['pass'])
 
     if cn_page.find('Wrong username or password') != -1:

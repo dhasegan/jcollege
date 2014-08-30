@@ -80,10 +80,11 @@ for st in students:
 
 
 # Populate answers
-answers = json.load( open('answers.json') )
+answers = json.load( open('crawler/answers.json') )
 for answer in answers:
     students = Student.objects.filter(username=answer['username'])
     if len(students) == 1:
         st = students[0]
         sqa = SpecialQuestionAnswer.objects.create(student=st, qtype=answer['qtype'],\
             college=st.college, answer=answer['answer'])
+
