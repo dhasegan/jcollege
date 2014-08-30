@@ -58,8 +58,8 @@ SPECIAL_QUESTION_CONTENT = \
     ('fav-place', 7), \
     ('holiday', 10), \
     ('toy', 10), \
-    ('dream-job', 10), \
-    ('future-plans', 10), \
+    # ('dream-job', 10), \
+    # ('future-plans', 10), \
     ('life-purpose', 15)]
 PROPOSE_QUESTION_POINTS = 50
 TOTAL_NR_SPECIAL_QUESTIONS = len(SPECIAL_QUESTION_CONTENT)
@@ -85,8 +85,8 @@ SPECIAL_QUESTION_QUESTION = {
     'fav-place': "What is his/her favorite place on campus?",
     'holiday': "What is his/her perfect holiday?",
     'toy': "What is his/her favorite childhood toy?",
-    'dream-job': "What is his/her dream job?",
-    'future-plans': "What is his/her future plans?",
+    # 'dream-job': "What is his/her dream job?",
+    # 'future-plans': "What is his/her future plans?",
     'life-purpose': "What is the purpose of life?",
 }
 
@@ -111,32 +111,32 @@ SPECIAL_QUESTION_RESEARCH = {
     'fav-place': "What is YOUR favorite place on campus?", # nkrueger
     'holiday': "What's YOUR perfect holiday?",
     'toy': "What's YOUR favorite childhood toy?",
-    'dream-job': "What's YOUR dream job?",
-    'future-plans': "What are YOUR future plans?",
+    # 'dream-job': "What's YOUR dream job?",
+    # 'future-plans': "What are YOUR future plans?",
     'life-purpose': "What is the purpose of life?", # kalnahas
 }
 
-YEARS = ['14', '15', '16']
-YEARS_NAMES = ['Year 2014', 'Year 2015', 'Year 2016']
+YEARS = ['15', '16', '17']
+YEARS_NAMES = ['Year 2015', 'Year 2016', 'Year 2017']
 
 LEVEL_NAMES = {
     0: "No one",
-    1: "Alarm sounds",
-    2: "Boring 8:15 class",
-    3: "Get caught jSleeping",
-    4: "Fill forms @registrar",
-    5: "Meatless lunch! yey!",
-    6: "2:15 GenCS Quiz",
-    7: "Finish Homework",
-    8: "Procrastinate at Coffee Bar",
-    9: "Finish stupid lab report",
-    10: "Get full of Doener",
-    11: "Watch Breaking Bad Finale",
-    12: "Play WhoIsJack",
-    13: 'Party at TOS',
-    14: 'Get shitfaced',
-    15: 'Jack off',
-    16: 'Realize that you are still at the other side'
+    1: "Ignorant",
+    2: "Foreigner",
+    3: "Visa holder",
+    4: "Germany visitor",
+    5: "O-week enthusiast",
+    6: "Internationalized student",
+    7: "Duck kisser",
+    8: "Treasure hunter/hunted(?)",
+    9: "Officially oriented",
+    10: "Course selector",
+    11: "Class goer and homework doer",
+    12: "Freshman",
+    13: 'Class sleeper and homework skipper',
+    14: 'Student',
+    15: 'Jack',
+    16: 'Alumn'
 }
 
 def get_level(st):
@@ -171,7 +171,7 @@ def available_special_questions(college, level):
 def get_special_questions_showed(level):
     alpha = 1.0 * level / MAX_LEVEL
     raw_showed = (1.0 - alpha) * 1 + alpha * TOTAL_NR_SPECIAL_QUESTIONS
-    return min(TOTAL_NR_SPECIAL_QUESTIONS, math.ceil(raw_showed) + 3)
+    return min(TOTAL_NR_SPECIAL_QUESTIONS, math.ceil(raw_showed) )
 
 def get_special_question_type(q_max_index, college):
     questions = []
@@ -461,4 +461,25 @@ def get_added_points(q_type):
 #     14: 'Leonardo da Vinci',
 #     15: 'Jack',
 #     16: 'Jon Lajoie'
+# }
+
+# Rest Spring session
+# LEVEL_NAMES = {
+#     0: "No one",
+#     1: "Alarm sounds",
+#     2: "Boring 8:15 class",
+#     3: "Get caught jSleeping",
+#     4: "Fill forms @registrar",
+#     5: "Meatless lunch! yey!",
+#     6: "2:15 GenCS Quiz",
+#     7: "Finish Homework",
+#     8: "Procrastinate at Coffee Bar",
+#     9: "Finish stupid lab report",
+#     10: "Get full of Doener",
+#     11: "Watch Breaking Bad Finale",
+#     12: "Play WhoIsJack",
+#     13: 'Party at TOS',
+#     14: 'Get shitfaced',
+#     15: 'Jack off',
+#     16: 'Realize that you are still at the other side'
 # }

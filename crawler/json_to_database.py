@@ -6,15 +6,18 @@ def get_bad_ids(filename):
     ids = [line.strip() for line in open(filename)]
     return ids
 
+years = ["15", "16", "17"]
+
 def college_to_database(college_name):
     json_file = open("crawler/" + college_name + ".json")
     json_data = json.load(json_file)
     for juser in json_data:
-        jid = juser['id']
+        jid = juser['eid']
         bad_ids = get_bad_ids("crawler/"+"bad_ids.txt")
         major = juser['major']
         exmat = major.find('exmatr')
-        if exmat == -1 and not (jid in bad_ids):
+        year = juser["year"]
+        if exmat == -1 and not (jid in bad_ids) and year in years:
             major_list = ['CS', 'EECS', 'ECE', 'ESS', 'EE', 'ACM', 'PHY', 'BCCB', 'BCE', 'IRB', 'ISCP', 'IES', 'ICS', 'ISS', 'ILME', 'CPN', 'MATH', 'GEM', 'BIOCHEM', 'CHEM', 'BIOTECH', 'BIGSSS', 'IR', 'IMS', 'IL', 'BIO/NEURO', 'GH']
             majors = ''
             for major_name in major_list:
@@ -25,14 +28,14 @@ def college_to_database(college_name):
                 majors = majors[:-1]
             password = '1234'
             photourl = juser['photo']
-            photourl = photourl.replace('jpeople.user.jacobs-university.de/utils/images/', 's3-eu-west-1.amazonaws.com/whoisjack/users/')
+            photourl = photourl.replace('http://swebtst01.public.jacobs-university.de/jPeople/image.php?id=', 'http://s3-eu-west-1.amazonaws.com/whoisjack/users/') + ".jpg"
             if True:
                 new_juser = Student(jid = jid,\
                     fname = juser['fname'],\
                     lname = juser['lname'],\
                     email = juser['email'],\
                     college = college_name[0].upper(),\
-                    room = juser['room'],\
+                    room = juser.get('room'),\
                     phone = juser['phone'],\
                     country = juser['country'],\
                     username = juser['account'],\
@@ -52,10 +55,10 @@ list_of_colleges = ['mercator','nordmetall','college-III','krupp']
 for college in list_of_colleges:
     college_to_database(college)
 
-# College(name="M").save()
-# College(name="K").save()
-# College(name="C").save()
-# College(name="N").save()
+College(name="M").save()
+College(name="K").save()
+College(name="C").save()
+College(name="N").save()
 
 MAJOR_TO_MAJOR = {
     'CS ICS': 'ICS',
@@ -75,3 +78,12 @@ for st in students:
         st.major = major_list[ st.major ]
         st.save()
 
+
+# Populate answers
+answers = json.load( open('answers.json') )
+for answer in answers:
+    students = Student.objects.filter(username=answer['username'])
+    if len(students) == 1:
+        st = students[0]
+        sqa = SpecialQuestionAnswer.objects.create(student=st, qtype=answer['qtype'],\
+            college=st.college, answer=answer['answer'])

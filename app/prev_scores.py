@@ -6,12 +6,26 @@ import datetime
 
 PREV_SCORES = []
 
+ID_TO_EID = json.load( open('app/id_to_eid.json') )
+
 def get_highscores_people(students):
     sorted_students = sorted(students, key=lambda x: x['points'], reverse=True)
     students_list = []
     for st in sorted_students:
-        stds = Student.objects.filter(jid=st['jid'])
-        if len(stds) != 1:
+        jid = st['jid']
+        if st['jid'] in ID_TO_EID:
+            jid = ID_TO_EID[st['jid']]
+        stds = Student.objects.filter(jid=jid)
+        if len(stds) == 0:
+            students_list.append({
+                'student': {
+                    'fname': st['name'] + " '14",
+                    'photourl': 'http://s3-eu-west-1.amazonaws.com/whoisjack/users/' + str(jid) + '.jpg',
+                },
+                'points': st['points']
+            })
+            continue
+        elif len(stds) != 1:
             continue
         std = stds[0]
         students_list.append({

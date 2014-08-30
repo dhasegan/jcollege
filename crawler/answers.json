@@ -1,0 +1,5607 @@
+[
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Whiskey",
+        "qtype": "alcohol-type",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "makumar"
+    },
+    {
+        "answer": "Italian",
+        "qtype": "fav-food",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Deck 20",
+        "qtype": "bremen-bar",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "mburaipatr"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "nshakya"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "rhambasan"
+    },
+    {
+        "answer": "Bow & arrow",
+        "qtype": "bring-on-island",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "mburaipatr"
+    },
+    {
+        "answer": "Star wars",
+        "qtype": "fav-movie",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Whiskey",
+        "qtype": "alcohol-type",
+        "username": "rhambasan"
+    },
+    {
+        "answer": "Sparkly",
+        "qtype": "color",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Pizza",
+        "qtype": "fav-food",
+        "username": "mburaipatr"
+    },
+    {
+        "answer": "Ice",
+        "qtype": "fav-food",
+        "username": "rhambasan"
+    },
+    {
+        "answer": "Cider",
+        "qtype": "alcohol-type",
+        "username": "nshakya"
+    },
+    {
+        "answer": "Empanadas",
+        "qtype": "fav-food",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Linkin park",
+        "qtype": "fav-band",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "alcohol-type",
+        "username": "ppoudel"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "jsong"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "slal"
+    },
+    {
+        "answer": "Phone",
+        "qtype": "bring-on-island",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "None",
+        "qtype": "alcohol-type",
+        "username": "jsong"
+    },
+    {
+        "answer": "My dog",
+        "qtype": "bring-on-island",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Red rock",
+        "qtype": "bremen-bar",
+        "username": "asmid"
+    },
+    {
+        "answer": "Steven ney",
+        "qtype": "professor",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Absinth",
+        "qtype": "alcohol-type",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "asmid"
+    },
+    {
+        "answer": "Spaghetti",
+        "qtype": "fav-food",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Petrol",
+        "qtype": "alcohol-type",
+        "username": "slal"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Wohnzimmer",
+        "qtype": "bremen-bar",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "A cd",
+        "qtype": "bring-on-island",
+        "username": "asmid"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "kkafadarov"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "vungureanu"
+    },
+    {
+        "answer": "Whisky",
+        "qtype": "alcohol-type",
+        "username": "kkafadarov"
+    },
+    {
+        "answer": "American beauty",
+        "qtype": "fav-movie",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "javendano"
+    },
+    {
+        "answer": "The perks of being a wallflower",
+        "qtype": "fav-movie",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "milie"
+    },
+    {
+        "answer": "Musaka",
+        "qtype": "fav-food",
+        "username": "kkafadarov"
+    },
+    {
+        "answer": "Schnitzel with pommes",
+        "qtype": "fav-food",
+        "username": "asmid"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "javendano"
+    },
+    {
+        "answer": "Guido mollering",
+        "qtype": "professor",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "My best friend",
+        "qtype": "bring-on-island",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Momo",
+        "qtype": "fav-food",
+        "username": "nshakya"
+    },
+    {
+        "answer": "Rravioli con ricotta e spinaci",
+        "qtype": "fav-food",
+        "username": "slal"
+    },
+    {
+        "answer": "Good food",
+        "qtype": "fav-food",
+        "username": "javendano"
+    },
+    {
+        "answer": "Icecream",
+        "qtype": "fav-food",
+        "username": "fneumann"
+    },
+    {
+        "answer": "None",
+        "qtype": "alcohol-type",
+        "username": "milie"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "msalib"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "asmid"
+    },
+    {
+        "answer": "The other side",
+        "qtype": "bremen-bar",
+        "username": "slal"
+    },
+    {
+        "answer": "Kfc chicken wings",
+        "qtype": "fav-food",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Gin tonic",
+        "qtype": "alcohol-type",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Tequilla",
+        "qtype": "alcohol-type",
+        "username": "apopa"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "apopa"
+    },
+    {
+        "answer": "Lord of the rings trilogy",
+        "qtype": "fav-movie",
+        "username": "asmid"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "Macarons",
+        "qtype": "fav-food",
+        "username": "milie"
+    },
+    {
+        "answer": "Scotch",
+        "qtype": "alcohol-type",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "Lasagna",
+        "qtype": "fav-food",
+        "username": "apopa"
+    },
+    {
+        "answer": "Michael kohlhase!",
+        "qtype": "professor",
+        "username": "slal"
+    },
+    {
+        "answer": "Scotch tape",
+        "qtype": "bring-on-island",
+        "username": "milie"
+    },
+    {
+        "answer": "Pizza",
+        "qtype": "fav-food",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "Lemon lounge",
+        "qtype": "bremen-bar",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Klaus sch\\u00f6mann",
+        "qtype": "professor",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "jbreuer"
+    },
+    {
+        "answer": "Materny",
+        "qtype": "professor",
+        "username": "apopa"
+    },
+    {
+        "answer": "A boat",
+        "qtype": "bring-on-island",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "A cat with buttered toast strapped to its back.",
+        "qtype": "bring-on-island",
+        "username": "slal"
+    },
+    {
+        "answer": "La viva",
+        "qtype": "bremen-bar",
+        "username": "milie"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "apopa"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "aoezalp"
+    },
+    {
+        "answer": "None",
+        "qtype": "alcohol-type",
+        "username": "fkhalid"
+    },
+    {
+        "answer": "Prof. k\\u00fchnen",
+        "qtype": "professor",
+        "username": "ccasebeer"
+    },
+    {
+        "answer": "Pink floyd",
+        "qtype": "fav-band",
+        "username": "apopa"
+    },
+    {
+        "answer": "Rice",
+        "qtype": "fav-food",
+        "username": "jbreuer"
+    },
+    {
+        "answer": "Kevin spacey",
+        "qtype": "fav-actor",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Water",
+        "qtype": "bring-on-island",
+        "username": "aoezalp"
+    },
+    {
+        "answer": "Ney",
+        "qtype": "professor",
+        "username": "milie"
+    },
+    {
+        "answer": "Purple",
+        "qtype": "color",
+        "username": "fkhalid"
+    },
+    {
+        "answer": "Closer",
+        "qtype": "fav-movie",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Yellow",
+        "qtype": "color",
+        "username": "musaeed"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "uagha"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "camler"
+    },
+    {
+        "answer": "Bloody red",
+        "qtype": "color",
+        "username": "uagha"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "aoezalp"
+    },
+    {
+        "answer": "Martin freeman",
+        "qtype": "fav-actor",
+        "username": "slal"
+    },
+    {
+        "answer": "Keanu reeves",
+        "qtype": "fav-actor",
+        "username": "milie"
+    },
+    {
+        "answer": "Biryani aufcourse",
+        "qtype": "fav-food",
+        "username": "uagha"
+    },
+    {
+        "answer": "The avengers",
+        "qtype": "fav-movie",
+        "username": "slal"
+    },
+    {
+        "answer": "Fight club",
+        "qtype": "fav-movie",
+        "username": "milie"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Guitar",
+        "qtype": "bring-on-island",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Hamburger",
+        "qtype": "fav-food",
+        "username": "camler"
+    },
+    {
+        "answer": "Rum",
+        "qtype": "alcohol-type",
+        "username": "camler"
+    },
+    {
+        "answer": "If it's deserted, then porn i guess",
+        "qtype": "bring-on-island",
+        "username": "uagha"
+    },
+    {
+        "answer": "Herbert jaeger",
+        "qtype": "professor",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "A friend",
+        "qtype": "bring-on-island",
+        "username": "camler"
+    },
+    {
+        "answer": "Mafia",
+        "qtype": "fav-game",
+        "username": "fneumann"
+    },
+    {
+        "answer": "The other side, the only one i visit :p",
+        "qtype": "bremen-bar",
+        "username": "uagha"
+    },
+    {
+        "answer": "Apple",
+        "qtype": "fav-food",
+        "username": "aoezalp"
+    },
+    {
+        "answer": "Cabra",
+        "qtype": "bremen-bar",
+        "username": "camler"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "elohse"
+    },
+    {
+        "answer": "Martini",
+        "qtype": "alcohol-type",
+        "username": "aignat"
+    },
+    {
+        "answer": "Magenta",
+        "qtype": "color",
+        "username": "aignat"
+    },
+    {
+        "answer": "Mr. nobody",
+        "qtype": "fav-movie",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Florence + the machine",
+        "qtype": "fav-band",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Red rock",
+        "qtype": "bremen-bar",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Some cool dude",
+        "qtype": "professor",
+        "username": "uagha"
+    },
+    {
+        "answer": "Mustard egg",
+        "qtype": "fav-food",
+        "username": "elohse"
+    },
+    {
+        "answer": "Tool",
+        "qtype": "fav-band",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Life",
+        "qtype": "professor",
+        "username": "camler"
+    },
+    {
+        "answer": "Gleis 9",
+        "qtype": "bremen-bar",
+        "username": "aignat"
+    },
+    {
+        "answer": "The matrix !!!",
+        "qtype": "fav-movie",
+        "username": "uagha"
+    },
+    {
+        "answer": "Godel escher bach",
+        "qtype": "fav-book",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "The big lebowski",
+        "qtype": "fav-movie",
+        "username": "camler"
+    },
+    {
+        "answer": "Chocolate",
+        "qtype": "fav-food",
+        "username": "aignat"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "elohse"
+    },
+    {
+        "answer": "Schupp",
+        "qtype": "professor",
+        "username": "aignat"
+    },
+    {
+        "answer": "The white stripes",
+        "qtype": "fav-band",
+        "username": "camler"
+    },
+    {
+        "answer": "Black eyed peas",
+        "qtype": "fav-band",
+        "username": "slal"
+    },
+    {
+        "answer": "Robert downey jr.",
+        "qtype": "fav-actor",
+        "username": "aignat"
+    },
+    {
+        "answer": "Prof. m\\u00fcller",
+        "qtype": "professor",
+        "username": "elohse"
+    },
+    {
+        "answer": "In motion - trent reznor",
+        "qtype": "fav-song",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "-",
+        "qtype": "bremen-bar",
+        "username": "fkhalid"
+    },
+    {
+        "answer": "Isaac asimov",
+        "qtype": "fav-author",
+        "username": "camler"
+    },
+    {
+        "answer": "Fahrenheit 451",
+        "qtype": "fav-book",
+        "username": "camler"
+    },
+    {
+        "answer": "Wuthering heights",
+        "qtype": "fav-book",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Rum",
+        "qtype": "alcohol-type",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Tough one... moby maybe? he's chill.",
+        "qtype": "fav-band",
+        "username": "uagha"
+    },
+    {
+        "answer": "Killing in the name of",
+        "qtype": "fav-song",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Wilson",
+        "qtype": "bring-on-island",
+        "username": "apopa"
+    },
+    {
+        "answer": "George clooney",
+        "qtype": "fav-actor",
+        "username": "camler"
+    },
+    {
+        "answer": "Eternal sunshine of the spotless mind",
+        "qtype": "fav-movie",
+        "username": "apopa"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "rpanea"
+    },
+    {
+        "answer": "Right now? i am listening to this song called \"houdini\" by foster the people. go check it out!",
+        "qtype": "fav-song",
+        "username": "uagha"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "camariei"
+    },
+    {
+        "answer": "Sweater weather",
+        "qtype": "fav-song",
+        "username": "camler"
+    },
+    {
+        "answer": "Edgar allan poe",
+        "qtype": "fav-author",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "abayanwala"
+    },
+    {
+        "answer": "Exotic fried chicken breast with tabasco sauce ",
+        "qtype": "fav-food",
+        "username": "camariei"
+    },
+    {
+        "answer": "Sushi",
+        "qtype": "fav-food",
+        "username": "rpanea"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "abayanwala"
+    },
+    {
+        "answer": "Werner bergholz",
+        "qtype": "professor",
+        "username": "camariei"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "camariei"
+    },
+    {
+        "answer": "It's time by imagine dragons",
+        "qtype": "fav-song",
+        "username": "slal"
+    },
+    {
+        "answer": "Liquors ",
+        "qtype": "alcohol-type",
+        "username": "camariei"
+    },
+    {
+        "answer": "Swiss army knife",
+        "qtype": "bring-on-island",
+        "username": "camariei"
+    },
+    {
+        "answer": "A woman",
+        "qtype": "bring-on-island",
+        "username": "rpanea"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "bring-on-island",
+        "username": "abayanwala"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "aciuprina"
+    },
+    {
+        "answer": " the lord of the rings trilogy",
+        "qtype": "fav-book",
+        "username": "slal"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "aciuprina"
+    },
+    {
+        "answer": "Knife",
+        "qtype": "bring-on-island",
+        "username": "elohse"
+    },
+    {
+        "answer": "Champagne",
+        "qtype": "alcohol-type",
+        "username": "mritter"
+    },
+    {
+        "answer": "Matthew reilly",
+        "qtype": "fav-author",
+        "username": "slal"
+    },
+    {
+        "answer": "Gastfeld",
+        "qtype": "bremen-bar",
+        "username": "mritter"
+    },
+    {
+        "answer": "Rice pudding",
+        "qtype": "fav-food",
+        "username": "mritter"
+    },
+    {
+        "answer": "Hegarty's",
+        "qtype": "bremen-bar",
+        "username": "elohse"
+    },
+    {
+        "answer": "Prof. dr. marc-thorsten hutt",
+        "qtype": "professor",
+        "username": "rpanea"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "mritter"
+    },
+    {
+        "answer": "Lucky number slevin",
+        "qtype": "fav-movie",
+        "username": "elohse"
+    },
+    {
+        "answer": "Karina",
+        "qtype": "professor",
+        "username": "mritter"
+    },
+    {
+        "answer": "Chocolate",
+        "qtype": "fav-food",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Kill me now",
+        "qtype": "color",
+        "username": "hrahman"
+    },
+    {
+        "answer": "My boyfriend",
+        "qtype": "bring-on-island",
+        "username": "mritter"
+    },
+    {
+        "answer": "Kill me then",
+        "qtype": "alcohol-type",
+        "username": "hrahman"
+    },
+    {
+        "answer": "Susanne illenberger",
+        "qtype": "professor",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Chocolat",
+        "qtype": "fav-movie",
+        "username": "mritter"
+    },
+    {
+        "answer": "Christoph waltz",
+        "qtype": "fav-actor",
+        "username": "elohse"
+    },
+    {
+        "answer": "Volbeat",
+        "qtype": "fav-band",
+        "username": "elohse"
+    },
+    {
+        "answer": "Chilling at a beach",
+        "qtype": "holiday",
+        "username": "slal"
+    },
+    {
+        "answer": "Tom hanks",
+        "qtype": "fav-actor",
+        "username": "mritter"
+    },
+    {
+        "answer": "Knives",
+        "qtype": "bring-on-island",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "George rr martin",
+        "qtype": "fav-author",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Portal",
+        "qtype": "fav-game",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "La viva",
+        "qtype": "bremen-bar",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Dark red",
+        "qtype": "color",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Somewhere i haven't been before",
+        "qtype": "holiday",
+        "username": "elohse"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "Books",
+        "qtype": "bring-on-island",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Lasagne",
+        "qtype": "fav-food",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "Wohnzimmer",
+        "qtype": "bremen-bar",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "Duplo",
+        "qtype": "toy",
+        "username": "elohse"
+    },
+    {
+        "answer": "Channing tatum",
+        "qtype": "fav-actor",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "A gun",
+        "qtype": "bring-on-island",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "I dont have one stop asking me ugghh",
+        "qtype": "fav-movie",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Bitches",
+        "qtype": "bring-on-island",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "Linkin park",
+        "qtype": "fav-band",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Fallen - volbeat",
+        "qtype": "fav-song",
+        "username": "elohse"
+    },
+    {
+        "answer": "Try",
+        "qtype": "fav-song",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Chocolate",
+        "qtype": "fav-food",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "The truth about forever - sarah dessen",
+        "qtype": "fav-book",
+        "username": "elohse"
+    },
+    {
+        "answer": "Curry",
+        "qtype": "fav-food",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "The kite runner",
+        "qtype": "fav-book",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Sarah dessen",
+        "qtype": "fav-author",
+        "username": "elohse"
+    },
+    {
+        "answer": "Jk rowling",
+        "qtype": "fav-author",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Truth or dare",
+        "qtype": "fav-game",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "There are many of them",
+        "qtype": "fav-movie",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "12 angry men",
+        "qtype": "fav-movie",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "I guess i will find out...",
+        "qtype": "future-plans",
+        "username": "elohse"
+    },
+    {
+        "answer": "T. nugent",
+        "qtype": "professor",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "abhattar01"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "abhattar01"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "tschraink"
+    },
+    {
+        "answer": "Chillin on a beach",
+        "qtype": "holiday",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Zwiebelrostbraten",
+        "qtype": "fav-food",
+        "username": "tschraink"
+    },
+    {
+        "answer": "None",
+        "qtype": "alcohol-type",
+        "username": "tschraink"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "mkardalino"
+    },
+    {
+        "answer": "A boat",
+        "qtype": "bring-on-island",
+        "username": "tschraink"
+    },
+    {
+        "answer": "Camarillo",
+        "qtype": "bremen-bar",
+        "username": "mkardalino"
+    },
+    {
+        "answer": "Fehrfeld",
+        "qtype": "bremen-bar",
+        "username": "tschraink"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Pizza",
+        "qtype": "fav-food",
+        "username": "mkardalino"
+    },
+    {
+        "answer": "Water",
+        "qtype": "bring-on-island",
+        "username": "mkardalino"
+    },
+    {
+        "answer": "Hammann",
+        "qtype": "professor",
+        "username": "tschraink"
+    },
+    {
+        "answer": "Massive attack",
+        "qtype": "fav-band",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Pirates of the carribean",
+        "qtype": "fav-movie",
+        "username": "mkardalino"
+    },
+    {
+        "answer": "\"hey jude\"",
+        "qtype": "fav-song",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Yellow",
+        "qtype": "color",
+        "username": "jili"
+    },
+    {
+        "answer": "Mojito",
+        "qtype": "alcohol-type",
+        "username": "jili"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "cpana"
+    },
+    {
+        "answer": "Knife and axe",
+        "qtype": "bring-on-island",
+        "username": "cpana"
+    },
+    {
+        "answer": "Uwe pagel",
+        "qtype": "professor",
+        "username": "cpana"
+    },
+    {
+        "answer": "Any given sunday",
+        "qtype": "fav-movie",
+        "username": "cpana"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "cpana"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "fav-food",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Pasta al forno",
+        "qtype": "fav-food",
+        "username": "cpana"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Pick this, pick this",
+        "qtype": "holiday",
+        "username": "dstefanosk"
+    },
+    {
+        "answer": "Amnesia :d",
+        "qtype": "fav-game",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "N/a",
+        "qtype": "alcohol-type",
+        "username": "mthapa"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "tolariu"
+    },
+    {
+        "answer": "A book",
+        "qtype": "toy",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Lasagna",
+        "qtype": "fav-food",
+        "username": "tolariu"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Purple",
+        "qtype": "color",
+        "username": "eullrichga"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Water",
+        "qtype": "bring-on-island",
+        "username": "eullrichga"
+    },
+    {
+        "answer": "Pulse pizza",
+        "qtype": "fav-food",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Sushi",
+        "qtype": "fav-food",
+        "username": "eullrichga"
+    },
+    {
+        "answer": "Books",
+        "qtype": "bring-on-island",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Kingdom of heaven",
+        "qtype": "fav-movie",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Stefan maubach",
+        "qtype": "professor",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Enchilada",
+        "qtype": "bremen-bar",
+        "username": "cpana"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "estiuler"
+    },
+    {
+        "answer": "The xx",
+        "qtype": "fav-band",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "apejkovska"
+    },
+    {
+        "answer": "Crystallised",
+        "qtype": "fav-song",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "apejkovska"
+    },
+    {
+        "answer": "Quo vadis",
+        "qtype": "fav-book",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Al pachino",
+        "qtype": "fav-actor",
+        "username": "cpana"
+    },
+    {
+        "answer": "Mihail sadoveanu",
+        "qtype": "fav-author",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Johnny cash - when the man comes around",
+        "qtype": "fav-song",
+        "username": "cpana"
+    },
+    {
+        "answer": "Dota ",
+        "qtype": "fav-game",
+        "username": "estiuler"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Leog",
+        "qtype": "toy",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Isopropanol",
+        "qtype": "alcohol-type",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "My girlfriend's panties",
+        "qtype": "save-house",
+        "username": "estiuler"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "ahugenberg"
+    },
+    {
+        "answer": "Traditional romanian food",
+        "qtype": "fav-food",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Matches",
+        "qtype": "bring-on-island",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Tequila",
+        "qtype": "alcohol-type",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "My dog",
+        "qtype": "save-house",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Laptop for sure",
+        "qtype": "save-house",
+        "username": "uagha"
+    },
+    {
+        "answer": "Prof. illenberger",
+        "qtype": "professor",
+        "username": "bmocanu"
+    },
+    {
+        "answer": "Micheal scott from the office",
+        "qtype": "fav-actor",
+        "username": "uagha"
+    },
+    {
+        "answer": "The fire extinguisher ",
+        "qtype": "save-house",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Godel, escher, bach ",
+        "qtype": "fav-book",
+        "username": "uagha"
+    },
+    {
+        "answer": "Hard to say at this point",
+        "qtype": "future-plans",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Lasagna ",
+        "qtype": "fav-food",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Lewis carroll (you get this wrong; you don't know me)",
+        "qtype": "fav-author",
+        "username": "uagha"
+    },
+    {
+        "answer": "Work from home for my own company that makes a decent amount of money",
+        "qtype": "dream-job",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Suitcase filled with everything i need",
+        "qtype": "bring-on-island",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Camping at the top of karakoram mountain ranges",
+        "qtype": "holiday",
+        "username": "uagha"
+    },
+    {
+        "answer": "Betti hartmann",
+        "qtype": "professor",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Outdoor -> football, indoor -> chess",
+        "qtype": "fav-game",
+        "username": "uagha"
+    },
+    {
+        "answer": "Irish pub paddy's ",
+        "qtype": "bremen-bar",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Take over the world!",
+        "qtype": "future-plans",
+        "username": "uagha"
+    },
+    {
+        "answer": "V for vendetta",
+        "qtype": "fav-movie",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Estranged, gnr",
+        "qtype": "fav-song",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "It would be unfair to all the bends i like if i choose only one",
+        "qtype": "fav-band",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "The sense of an ending",
+        "qtype": "fav-book",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Pork",
+        "qtype": "fav-food",
+        "username": "musaeed"
+    },
+    {
+        "answer": "Rainbow",
+        "qtype": "color",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "save-house",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Rum",
+        "qtype": "alcohol-type",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "I often ask myself this question. no answer yet.",
+        "qtype": "fav-author",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Eclair",
+        "qtype": "fav-food",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Music",
+        "qtype": "bring-on-island",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Red rock",
+        "qtype": "bremen-bar",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Gotz pfander",
+        "qtype": "professor",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Chess",
+        "qtype": "fav-game",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Red eye",
+        "qtype": "fav-movie",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Spice girls",
+        "qtype": "fav-band",
+        "username": "fstankovsk"
+    },
+    {
+        "answer": "Summer with friends, beach, running, swimming, reading, partying",
+        "qtype": "holiday",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Seriously? i hate this question",
+        "qtype": "dream-job",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Cider",
+        "qtype": "alcohol-type",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Lego",
+        "qtype": "toy",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Mediterranean food",
+        "qtype": "fav-food",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Fanny and alexander",
+        "qtype": "fav-movie",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Food and books",
+        "qtype": "bring-on-island",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Stay alive & graduate",
+        "qtype": "future-plans",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Wienerhof cafe",
+        "qtype": "bremen-bar",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Al pacino",
+        "qtype": "fav-actor",
+        "username": "cperticas"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "krdevkota"
+    },
+    {
+        "answer": "Empire of the sun",
+        "qtype": "fav-band",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Kaustubh phatak",
+        "qtype": "professor",
+        "username": "cperticas"
+    },
+    {
+        "answer": "People are strange",
+        "qtype": "fav-song",
+        "username": "cperticas"
+    },
+    {
+        "answer": "I don't read",
+        "qtype": "fav-author",
+        "username": "cperticas"
+    },
+    {
+        "answer": "I don't play games",
+        "qtype": "fav-game",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Hard to say",
+        "qtype": "fav-book",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Somewhere exotic and warm, lots of good food and wine, and things to see ",
+        "qtype": "holiday",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Nobel prize, fields medal, next facebook, billionaire, president, you get the idea...",
+        "qtype": "future-plans",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Toy guns, toy cars and a teddybear tiger",
+        "qtype": "toy",
+        "username": "cperticas"
+    },
+    {
+        "answer": "F1 pilot",
+        "qtype": "dream-job",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Bar?? in bremen? you must be kidding! bremen is boring!",
+        "qtype": "bremen-bar",
+        "username": "krdevkota"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "sappelhoff"
+    },
+    {
+        "answer": "Rum",
+        "qtype": "alcohol-type",
+        "username": "sappelhoff"
+    },
+    {
+        "answer": "Jaegermeister",
+        "qtype": "alcohol-type",
+        "username": "mblackley"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "mblackley"
+    },
+    {
+        "answer": "Dog",
+        "qtype": "save-house",
+        "username": "mblackley"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Whiskey",
+        "qtype": "alcohol-type",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Foosball",
+        "qtype": "fav-sport",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "Chicken curry",
+        "qtype": "fav-food",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Books",
+        "qtype": "bring-on-island",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Muddies",
+        "qtype": "bremen-bar",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Cycling",
+        "qtype": "fav-sport",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Prof. schupp",
+        "qtype": "professor",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Sunshine",
+        "qtype": "fav-movie",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Gorillaz",
+        "qtype": "fav-band",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Bioshock infinite",
+        "qtype": "fav-game",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Driving, fighting",
+        "qtype": "fav-sport",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Otherland",
+        "qtype": "fav-book",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Alastair reynolds",
+        "qtype": "fav-author",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Awolnation",
+        "qtype": "fav-band",
+        "username": "cpana"
+    },
+    {
+        "answer": "Pizza",
+        "qtype": "fav-food",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "save-house",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Hegarty's",
+        "qtype": "bremen-bar",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Tequila",
+        "qtype": "alcohol-type",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Pasta",
+        "qtype": "fav-food",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Harry potter",
+        "qtype": "fav-movie",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "A knife",
+        "qtype": "bring-on-island",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Hugh jackman",
+        "qtype": "fav-actor",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "A laptop",
+        "qtype": "save-house",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "K\\u00fchnen",
+        "qtype": "professor",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Casa",
+        "qtype": "bremen-bar",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Life",
+        "qtype": "save-house",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Django unchained",
+        "qtype": "fav-movie",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Radiohead",
+        "qtype": "fav-band",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Do i wanna know",
+        "qtype": "fav-song",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Lasagne",
+        "qtype": "fav-food",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Electric generator, telecommunication equipment and tools ",
+        "qtype": "bring-on-island",
+        "username": "dclisu"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Pippi longstocking",
+        "qtype": "fav-book",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Jostein gaarder",
+        "qtype": "fav-author",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Monopoly",
+        "qtype": "fav-game",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Alcohol",
+        "qtype": "alcohol-type",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Football i would say",
+        "qtype": "fav-sport",
+        "username": "uagha"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "My cat",
+        "qtype": "save-house",
+        "username": "fneumann"
+    },
+    {
+        "answer": "El presidente",
+        "qtype": "bremen-bar",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Friends",
+        "qtype": "bring-on-island",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Champagne",
+        "qtype": "alcohol-type",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Uwe pagel",
+        "qtype": "professor",
+        "username": "dclisu"
+    },
+    {
+        "answer": "I used to have a spiderman figure. he and i went on adventures. good times :')",
+        "qtype": "toy",
+        "username": "uagha"
+    },
+    {
+        "answer": "Pingpong",
+        "qtype": "fav-sport",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Strawberry cheesecake",
+        "qtype": "fav-food",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-movie",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Notebook and pen",
+        "qtype": "bring-on-island",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Nicolas jaar",
+        "qtype": "fav-band",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Heggarty's",
+        "qtype": "bremen-bar",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Ballet",
+        "qtype": "fav-sport",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Take a fall for me",
+        "qtype": "fav-song",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Basketball",
+        "qtype": "fav-sport",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Heinrich von kleist",
+        "qtype": "fav-author",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Hmmm...",
+        "qtype": "professor",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Ideally, top researcher at google x would be nice",
+        "qtype": "dream-job",
+        "username": "uagha"
+    },
+    {
+        "answer": "Home alone 2",
+        "qtype": "fav-movie",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "I have too many favourite songs",
+        "qtype": "fav-song",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Das orangenm\\u00e4dchen",
+        "qtype": "fav-book",
+        "username": "fneumann"
+    },
+    {
+        "answer": "German chancellor ",
+        "qtype": "future-plans",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Anyone who is there",
+        "qtype": "save-house",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Ocean & nature",
+        "qtype": "holiday",
+        "username": "fneumann"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-actor",
+        "username": "dclisu"
+    },
+    {
+        "answer": "I like too many bands",
+        "qtype": "fav-band",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Queen",
+        "qtype": "fav-band",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Sarma",
+        "qtype": "fav-food",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Sand",
+        "qtype": "toy",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Selfmade guns",
+        "qtype": "toy",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "nkolev"
+    },
+    {
+        "answer": "None",
+        "qtype": "future-plans",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Knife",
+        "qtype": "bring-on-island",
+        "username": "nkolev"
+    },
+    {
+        "answer": "I don't play games",
+        "qtype": "fav-game",
+        "username": "dclisu"
+    },
+    {
+        "answer": "German chancellor",
+        "qtype": "dream-job",
+        "username": "fneumann"
+    },
+    {
+        "answer": "Basketball",
+        "qtype": "fav-sport",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Philosophical diary",
+        "qtype": "fav-book",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Iris",
+        "qtype": "fav-song",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Traveler",
+        "qtype": "dream-job",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Hegarty's",
+        "qtype": "bremen-bar",
+        "username": "nkolev"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-author",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Beach",
+        "qtype": "holiday",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "The a-team",
+        "qtype": "fav-movie",
+        "username": "nkolev"
+    },
+    {
+        "answer": "There is no perfect holiday",
+        "qtype": "holiday",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Pablo neruda",
+        "qtype": "fav-author",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "I don't usually read books",
+        "qtype": "fav-book",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Herbert jaeger",
+        "qtype": "professor",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Never have i ever",
+        "qtype": "fav-game",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Smells like teens spirit",
+        "qtype": "fav-song",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Seaside + books",
+        "qtype": "holiday",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Lego",
+        "qtype": "toy",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Write",
+        "qtype": "future-plans",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Writer",
+        "qtype": "dream-job",
+        "username": "gconstan01"
+    },
+    {
+        "answer": "Kiteboarding",
+        "qtype": "fav-sport",
+        "username": "camler"
+    },
+    {
+        "answer": "Sun, water, wind",
+        "qtype": "holiday",
+        "username": "camler"
+    },
+    {
+        "answer": "Meccano ",
+        "qtype": "toy",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Paying jacobs debt ",
+        "qtype": "future-plans",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Space mission engineer",
+        "qtype": "dream-job",
+        "username": "dclisu"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "cloica"
+    },
+    {
+        "answer": "Smirnoff ice",
+        "qtype": "alcohol-type",
+        "username": "cloica"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "save-house",
+        "username": "cloica"
+    },
+    {
+        "answer": "Cheesecake",
+        "qtype": "fav-food",
+        "username": "cloica"
+    },
+    {
+        "answer": "Knife",
+        "qtype": "bring-on-island",
+        "username": "cloica"
+    },
+    {
+        "answer": "Sammy's",
+        "qtype": "bremen-bar",
+        "username": "cloica"
+    },
+    {
+        "answer": "Hammann",
+        "qtype": "professor",
+        "username": "cloica"
+    },
+    {
+        "answer": "Handball",
+        "qtype": "fav-sport",
+        "username": "cloica"
+    },
+    {
+        "answer": "Pirates of the caribbean",
+        "qtype": "fav-movie",
+        "username": "cloica"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "cloica"
+    },
+    {
+        "answer": "Red hot chilli peppers",
+        "qtype": "fav-band",
+        "username": "cloica"
+    },
+    {
+        "answer": "Wuthering heights",
+        "qtype": "fav-book",
+        "username": "cloica"
+    },
+    {
+        "answer": "Horse riding",
+        "qtype": "fav-sport",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Springer",
+        "qtype": "professor",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Dancing",
+        "qtype": "fav-sport",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Under the bridge",
+        "qtype": "fav-song",
+        "username": "cloica"
+    },
+    {
+        "answer": "Ipad",
+        "qtype": "save-house",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Somewhere on a beach",
+        "qtype": "holiday",
+        "username": "cloica"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-actor",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Kafka",
+        "qtype": "fav-author",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "A teddy bear",
+        "qtype": "toy",
+        "username": "cloica"
+    },
+    {
+        "answer": "1984",
+        "qtype": "fav-book",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Super mario",
+        "qtype": "fav-game",
+        "username": "cloica"
+    },
+    {
+        "answer": "Quesadilla",
+        "qtype": "fav-food",
+        "username": "ahugenberg"
+    },
+    {
+        "answer": "The party",
+        "qtype": "bring-on-island",
+        "username": "ahugenberg"
+    },
+    {
+        "answer": "The house",
+        "qtype": "save-house",
+        "username": "ahugenberg"
+    },
+    {
+        "answer": "Travelling ",
+        "qtype": "holiday",
+        "username": "kmustafina"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "eluzhnica"
+    },
+    {
+        "answer": "Malibu",
+        "qtype": "alcohol-type",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Teal",
+        "qtype": "color",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Oreos",
+        "qtype": "bring-on-island",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Pasta",
+        "qtype": "fav-food",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Loft",
+        "qtype": "bremen-bar",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Prof. dr. cramer",
+        "qtype": "professor",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Frozen",
+        "qtype": "fav-movie",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Johnny walker gold label",
+        "qtype": "alcohol-type",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Double rainbow!!!",
+        "qtype": "color",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Shahi paneer",
+        "qtype": "fav-food",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Pen",
+        "qtype": "bring-on-island",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Hot chocolate ",
+        "qtype": "alcohol-type",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Pot seeds",
+        "qtype": "bring-on-island",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Passport ",
+        "qtype": "save-house",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Kebbe",
+        "qtype": "fav-food",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Prof. dr. kinga lipskoch",
+        "qtype": "professor",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Rowing",
+        "qtype": "fav-sport",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Camera rolls and hdd",
+        "qtype": "save-house",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Badminton",
+        "qtype": "fav-sport",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Sami's",
+        "qtype": "bremen-bar",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "milie"
+    },
+    {
+        "answer": "Gabel ",
+        "qtype": "professor",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Orange",
+        "qtype": "color",
+        "username": "nnair"
+    },
+    {
+        "answer": "...",
+        "qtype": "fav-band",
+        "username": "milie"
+    },
+    {
+        "answer": "...",
+        "qtype": "fav-song",
+        "username": "milie"
+    },
+    {
+        "answer": "Ice skating",
+        "qtype": "fav-sport",
+        "username": "milie"
+    },
+    {
+        "answer": "...",
+        "qtype": "fav-game",
+        "username": "milie"
+    },
+    {
+        "answer": "Alice in wonderland",
+        "qtype": "fav-book",
+        "username": "milie"
+    },
+    {
+        "answer": "Sean connery",
+        "qtype": "fav-actor",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Poe",
+        "qtype": "fav-author",
+        "username": "milie"
+    },
+    {
+        "answer": "...",
+        "qtype": "dream-job",
+        "username": "milie"
+    },
+    {
+        "answer": "Koosh",
+        "qtype": "toy",
+        "username": "milie"
+    },
+    {
+        "answer": "...",
+        "qtype": "holiday",
+        "username": "milie"
+    },
+    {
+        "answer": "Inception ",
+        "qtype": "fav-movie",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Green day",
+        "qtype": "fav-band",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "My guitar and some cd's",
+        "qtype": "bring-on-island",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Paddys",
+        "qtype": "bremen-bar",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Happy ",
+        "qtype": "fav-song",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Peter schuup ",
+        "qtype": "professor",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Robert de niro",
+        "qtype": "fav-actor",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Guitar",
+        "qtype": "save-house",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Tennis",
+        "qtype": "fav-sport",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "The beatles/led zepellin/jethro tull/the who/pink floyd/deep purple",
+        "qtype": "fav-band",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Wish you were here/let it be/baba o'riley",
+        "qtype": "fav-song",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Animal farm",
+        "qtype": "fav-book",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Thomas the tank engine",
+        "qtype": "toy",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Dan brown ",
+        "qtype": "fav-author",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Chillin in hawaii with my holmies :p.....",
+        "qtype": "holiday",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Pokemon!!!!",
+        "qtype": "fav-game",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Morgan freeman",
+        "qtype": "fav-actor",
+        "username": "sshukla"
+    },
+    {
+        "answer": "A day with my family ",
+        "qtype": "holiday",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Led zeppelin",
+        "qtype": "fav-band",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Wallet",
+        "qtype": "save-house",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Salsa",
+        "qtype": "fav-sport",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Alexis bledel",
+        "qtype": "fav-actor",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Of monsters and men",
+        "qtype": "fav-band",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Happy",
+        "qtype": "fav-song",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Das orangenm\\u00e4dchen",
+        "qtype": "fav-book",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Bruges",
+        "qtype": "fav-game",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "The little prince ",
+        "qtype": "fav-book",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Azure",
+        "qtype": "color",
+        "username": "mdumitrel"
+    },
+    {
+        "answer": "...",
+        "qtype": "future-plans",
+        "username": "milie"
+    },
+    {
+        "answer": "Lego",
+        "qtype": "toy",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Lol",
+        "qtype": "fav-game",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Die ",
+        "qtype": "future-plans",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Biotechnologist ",
+        "qtype": "dream-job",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "T.n.t. - ac/dc",
+        "qtype": "fav-song",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Lord of the rings trilogy",
+        "qtype": "fav-movie",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Yellow",
+        "qtype": "color",
+        "username": "abogoeva"
+    },
+    {
+        "answer": "Wallet",
+        "qtype": "save-house",
+        "username": "abogoeva"
+    },
+    {
+        "answer": "Fish",
+        "qtype": "fav-food",
+        "username": "abogoeva"
+    },
+    {
+        "answer": "Whiskey",
+        "qtype": "alcohol-type",
+        "username": "abogoeva"
+    },
+    {
+        "answer": "Red rock",
+        "qtype": "bremen-bar",
+        "username": "abogoeva"
+    },
+    {
+        "answer": "Michael kohlhase",
+        "qtype": "professor",
+        "username": "dkundel"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "No purpose",
+        "qtype": "life-purpose",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "72",
+        "qtype": "number",
+        "username": "dhasegan"
+    },
+    {
+        "answer": " ",
+        "qtype": "life-purpose",
+        "username": "kalnahas"
+    },
+    {
+        "answer": "Fairy tales - hans christian andersen",
+        "qtype": "fav-book",
+        "username": "sshukla"
+    },
+    {
+        "answer": "29a",
+        "qtype": "number",
+        "username": "sshukla"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-author",
+        "username": "sshukla"
+    },
+    {
+        "answer": "A warm sunny beach on a secluded island",
+        "qtype": "holiday",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Hot wheels",
+        "qtype": "toy",
+        "username": "sshukla"
+    },
+    {
+        "answer": "To work for a better world",
+        "qtype": "life-purpose",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Swtor",
+        "qtype": "fav-game",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Teal",
+        "qtype": "fav-actor",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "23",
+        "qtype": "number",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "rschliep"
+    },
+    {
+        "answer": "Handle with care",
+        "qtype": "fav-book",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Mafia",
+        "qtype": "fav-game",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Coldplay",
+        "qtype": "fav-band",
+        "username": "lgarcia"
+    },
+    {
+        "answer": "Cheesecake",
+        "qtype": "life-purpose",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "17",
+        "qtype": "number",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "anoeth"
+    },
+    {
+        "answer": "Malibu",
+        "qtype": "alcohol-type",
+        "username": "anoeth"
+    },
+    {
+        "answer": "Collegehumour",
+        "qtype": "dream-job",
+        "username": "sshukla"
+    },
+    {
+        "answer": "5",
+        "qtype": "number",
+        "username": "camler"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "save-house",
+        "username": "camler"
+    },
+    {
+        "answer": "Legoes",
+        "qtype": "toy",
+        "username": "camler"
+    },
+    {
+        "answer": "Conquer the world with millenium falcon",
+        "qtype": "future-plans",
+        "username": "sshukla"
+    },
+    {
+        "answer": "I'm working on it",
+        "qtype": "life-purpose",
+        "username": "camler"
+    },
+    {
+        "answer": "Running",
+        "qtype": "fav-sport",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "rschaefer"
+    },
+    {
+        "answer": "Lasagne",
+        "qtype": "fav-food",
+        "username": "rschaefer"
+    },
+    {
+        "answer": "23",
+        "qtype": "number",
+        "username": "uagha"
+    },
+    {
+        "answer": "To seek the purpose of life",
+        "qtype": "life-purpose",
+        "username": "uagha"
+    },
+    {
+        "answer": "E.s. gardner",
+        "qtype": "fav-author",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "42",
+        "qtype": "number",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Data analyst at google.",
+        "qtype": "dream-job",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Got to grad schoool i guess",
+        "qtype": "future-plans",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "That is a good question to which i do not have the answe",
+        "qtype": "life-purpose",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Red wine?",
+        "qtype": "alcohol-type",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "North indian",
+        "qtype": "fav-food",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Phone and headphones",
+        "qtype": "save-house",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Life",
+        "qtype": "bring-on-island",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Stanislav",
+        "qtype": "professor",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "8",
+        "qtype": "number",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Biergarten",
+        "qtype": "bremen-bar",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Forrest gump",
+        "qtype": "fav-movie",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Leo",
+        "qtype": "fav-actor",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Imagine dragons",
+        "qtype": "fav-band",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Diamonds on the soles of her shoes",
+        "qtype": "fav-song",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Paulo coelho",
+        "qtype": "fav-author",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Porters",
+        "qtype": "dream-job",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Who is jack",
+        "qtype": "fav-game",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "Alchemist",
+        "qtype": "fav-book",
+        "username": "sagarwal"
+    },
+    {
+        "answer": "The wire",
+        "qtype": "fav-series",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "My house :p",
+        "qtype": "save-house",
+        "username": "slal"
+    },
+    {
+        "answer": "Friends",
+        "qtype": "fav-series",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Burnout 3: takedown",
+        "qtype": "fav-game",
+        "username": "slal"
+    },
+    {
+        "answer": "42",
+        "qtype": "number",
+        "username": "slal"
+    },
+    {
+        "answer": "Cricket",
+        "qtype": "fav-sport",
+        "username": "slal"
+    },
+    {
+        "answer": "Pink",
+        "qtype": "color",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Hotwheels",
+        "qtype": "toy",
+        "username": "slal"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "It's too hard to decide.",
+        "qtype": "fav-food",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Champagne",
+        "qtype": "alcohol-type",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Dora the explorer's bagpack",
+        "qtype": "bring-on-island",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "My genie magic lamp.",
+        "qtype": "save-house",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Sonia lippke",
+        "qtype": "professor",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "4",
+        "qtype": "number",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "3 idiots",
+        "qtype": "fav-movie",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Keine ahnung",
+        "qtype": "bremen-bar",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Depends on my mood.",
+        "qtype": "fav-song",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Friends",
+        "qtype": "bring-on-island",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Amir khan",
+        "qtype": "fav-actor",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Chocolate",
+        "qtype": "fav-food",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Imagine dragons",
+        "qtype": "fav-band",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "I have too many!",
+        "qtype": "fav-book",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Computer",
+        "qtype": "save-house",
+        "username": "aresteu"
+    },
+    {
+        "answer": "I have a lot of them.",
+        "qtype": "fav-author",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "The big bang theory",
+        "qtype": "fav-series",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "A place with nice weather and good friends",
+        "qtype": "holiday",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Time flies",
+        "qtype": "fav-game",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Liqueur",
+        "qtype": "alcohol-type",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Where i'm happy",
+        "qtype": "dream-job",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "11",
+        "qtype": "number",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Bar celona",
+        "qtype": "bremen-bar",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Barbies",
+        "qtype": "toy",
+        "username": "fdesutter"
+    },
+    {
+        "answer": "Yoga",
+        "qtype": "fav-sport",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "amalik"
+    },
+    {
+        "answer": "I dont drink",
+        "qtype": "alcohol-type",
+        "username": "amalik"
+    },
+    {
+        "answer": "A girl to repopulate the island",
+        "qtype": "bring-on-island",
+        "username": "amalik"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "fav-food",
+        "username": "amalik"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "amalik"
+    },
+    {
+        "answer": "14",
+        "qtype": "number",
+        "username": "amalik"
+    },
+    {
+        "answer": "Prof. thomsen",
+        "qtype": "professor",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Matthias bode",
+        "qtype": "professor",
+        "username": "amalik"
+    },
+    {
+        "answer": "Otherside",
+        "qtype": "bremen-bar",
+        "username": "amalik"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Howl's moving castle",
+        "qtype": "fav-movie",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Splean",
+        "qtype": "fav-band",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Explosions in the sky \\u2013 glittering blackness",
+        "qtype": "fav-song",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Arthur conan doyle",
+        "qtype": "fav-author",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Doctor who",
+        "qtype": "fav-series",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Dragon age",
+        "qtype": "fav-game",
+        "username": "aresteu"
+    },
+    {
+        "answer": "Passport",
+        "qtype": "save-house",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "27",
+        "qtype": "number",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Baseball",
+        "qtype": "fav-sport",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Dead poet society",
+        "qtype": "fav-book",
+        "username": "dkundel"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "dkundel"
+    },
+    {
+        "answer": "American horror story: asylum",
+        "qtype": "fav-series",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "42",
+        "qtype": "number",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Frozen (candy crush-esque)",
+        "qtype": "fav-game",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Forever young",
+        "qtype": "fav-song",
+        "username": "dkundel"
+    },
+    {
+        "answer": "N/a",
+        "qtype": "fav-author",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "dkundel"
+    },
+    {
+        "answer": "N/a",
+        "qtype": "fav-actor",
+        "username": "dkundel"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "mchichifoi"
+    },
+    {
+        "answer": "Gin",
+        "qtype": "alcohol-type",
+        "username": "mchichifoi"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Oreo",
+        "qtype": "fav-food",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Pier luigi",
+        "qtype": "bring-on-island",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Mercator blue ;)",
+        "qtype": "color",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Myself",
+        "qtype": "save-house",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Blue fazan",
+        "qtype": "bremen-bar",
+        "username": "cmarin"
+    },
+    {
+        "answer": "Guido",
+        "qtype": "professor",
+        "username": "cmarin"
+    },
+    {
+        "answer": "4",
+        "qtype": "number",
+        "username": "mritter"
+    },
+    {
+        "answer": "My siblings",
+        "qtype": "save-house",
+        "username": "mritter"
+    },
+    {
+        "answer": "Dancing",
+        "qtype": "fav-sport",
+        "username": "mritter"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-band",
+        "username": "mritter"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-song",
+        "username": "mritter"
+    },
+    {
+        "answer": "I can't really decide.",
+        "qtype": "fav-book",
+        "username": "mritter"
+    },
+    {
+        "answer": "Jostein gaarder",
+        "qtype": "fav-author",
+        "username": "mritter"
+    },
+    {
+        "answer": "The mentalist",
+        "qtype": "fav-series",
+        "username": "mritter"
+    },
+    {
+        "answer": "I don't have one.",
+        "qtype": "fav-game",
+        "username": "mritter"
+    },
+    {
+        "answer": "Becoming who i want to be",
+        "qtype": "future-plans",
+        "username": "mritter"
+    },
+    {
+        "answer": "Cottage in ireland",
+        "qtype": "holiday",
+        "username": "mritter"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "elohse"
+    },
+    {
+        "answer": "13",
+        "qtype": "number",
+        "username": "elohse"
+    },
+    {
+        "answer": "Ultimate frisbee",
+        "qtype": "fav-sport",
+        "username": "elohse"
+    },
+    {
+        "answer": "The big bang theory",
+        "qtype": "fav-series",
+        "username": "elohse"
+    },
+    {
+        "answer": "Anything close to the people i love",
+        "qtype": "holiday",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Self employment ",
+        "qtype": "dream-job",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Buzz lightyear",
+        "qtype": "toy",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Kedest tadesse",
+        "qtype": "color",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "43",
+        "qtype": "alcohol-type",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Food",
+        "qtype": "fav-food",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Blanket",
+        "qtype": "bring-on-island",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "I don't know",
+        "qtype": "save-house",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "None!",
+        "qtype": "professor",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "I don't like sports",
+        "qtype": "fav-sport",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Silver linings",
+        "qtype": "fav-movie",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "13",
+        "qtype": "number",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Potatoes",
+        "qtype": "fav-food",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Bar?",
+        "qtype": "bremen-bar",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Food",
+        "qtype": "bring-on-island",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "?",
+        "qtype": "fav-book",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "!",
+        "qtype": "fav-song",
+        "username": "ktadesse"
+    },
+    {
+        "answer": "Paddy's pit",
+        "qtype": "bremen-bar",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Dog",
+        "qtype": "save-house",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Supernatural",
+        "qtype": "fav-series",
+        "username": "camler"
+    },
+    {
+        "answer": "Cocktails",
+        "qtype": "alcohol-type",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Meat curry ",
+        "qtype": "fav-food",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "5",
+        "qtype": "number",
+        "username": "nkolev"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Metallica",
+        "qtype": "fav-band",
+        "username": "nkolev"
+    },
+    {
+        "answer": "I dont know",
+        "qtype": "save-house",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Water",
+        "qtype": "bring-on-island",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "The red rock",
+        "qtype": "bremen-bar",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Bode",
+        "qtype": "professor",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Led zeppelin",
+        "qtype": "fav-band",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "No comments!",
+        "qtype": "fav-movie",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "There isnt only one :/",
+        "qtype": "fav-song",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "obichiashv"
+    },
+    {
+        "answer": "Facebook",
+        "qtype": "fav-book",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": ":/",
+        "qtype": "fav-author",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "De caprio",
+        "qtype": "fav-actor",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Car race",
+        "qtype": "fav-game",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "fhaq"
+    },
+    {
+        "answer": "Breaking bad",
+        "qtype": "fav-series",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Dont know :(",
+        "qtype": "holiday",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Football",
+        "qtype": "toy",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Dafaq?",
+        "qtype": "life-purpose",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Nothing",
+        "qtype": "future-plans",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Guitarist @ led zeppelin",
+        "qtype": "dream-job",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "musaeed"
+    },
+    {
+        "answer": "The great gatsby",
+        "qtype": "fav-movie",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "17",
+        "qtype": "number",
+        "username": "nkrueger"
+    },
+    {
+        "answer": ".",
+        "qtype": "fav-actor",
+        "username": "nkrueger"
+    },
+    {
+        "answer": ".",
+        "qtype": "fav-band",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "John irving",
+        "qtype": "fav-author",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Youth",
+        "qtype": "fav-song",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "In one person",
+        "qtype": "fav-book",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Big bang theory",
+        "qtype": "fav-series",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Sun",
+        "qtype": "holiday",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Munchkin",
+        "qtype": "fav-game",
+        "username": "nkrueger"
+    },
+    {
+        "answer": ".",
+        "qtype": "dream-job",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "hziessler"
+    },
+    {
+        "answer": "Doll",
+        "qtype": "toy",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Orange",
+        "qtype": "color",
+        "username": "hziessler"
+    },
+    {
+        "answer": "D\\u00f6ner",
+        "qtype": "fav-food",
+        "username": "hziessler"
+    },
+    {
+        "answer": "Delhey",
+        "qtype": "professor",
+        "username": "hziessler"
+    },
+    {
+        "answer": "Enjoy life :d",
+        "qtype": "future-plans",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "American football",
+        "qtype": "fav-sport",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Ulrich k\\u00fchnen",
+        "qtype": "professor",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "sbali"
+    },
+    {
+        "answer": "6",
+        "qtype": "number",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "American history x",
+        "qtype": "fav-movie",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Bryan cranston",
+        "qtype": "fav-actor",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "System of a down",
+        "qtype": "fav-band",
+        "username": "ddayhoff"
+    },
+    {
+        "answer": "Fun",
+        "qtype": "life-purpose",
+        "username": "nkrueger"
+    },
+    {
+        "answer": "Is this a job application?",
+        "qtype": "future-plans",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "Laughter",
+        "qtype": "life-purpose",
+        "username": "rlimaj"
+    },
+    {
+        "answer": "13",
+        "qtype": "number",
+        "username": "cperticas"
+    },
+    {
+        "answer": "To live it and to make it longer",
+        "qtype": "life-purpose",
+        "username": "cperticas"
+    },
+    {
+        "answer": "Family guy",
+        "qtype": "fav-series",
+        "username": "cperticas"
+    },
+    {
+        "answer": "25",
+        "qtype": "number",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Too many",
+        "qtype": "fav-author",
+        "username": "gkoerte"
+    },
+    {
+        "answer": "Alcohol, what is that?",
+        "qtype": "alcohol-type",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Top gear",
+        "qtype": "fav-series",
+        "username": "slal"
+    },
+    {
+        "answer": "Microsoft",
+        "qtype": "dream-job",
+        "username": "slal"
+    },
+    {
+        "answer": "Living",
+        "qtype": "life-purpose",
+        "username": "slal"
+    },
+    {
+        "answer": "Hunt down the doctor and travel around in the tardis",
+        "qtype": "future-plans",
+        "username": "slal"
+    },
+    {
+        "answer": "I dont drink",
+        "qtype": "alcohol-type",
+        "username": "acheema"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "acheema"
+    },
+    {
+        "answer": "My phone",
+        "qtype": "bring-on-island",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Strawberries",
+        "qtype": "fav-food",
+        "username": "skiratli"
+    },
+    {
+        "answer": "My laptop, i need my laptop!",
+        "qtype": "save-house",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Ice skating",
+        "qtype": "fav-sport",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Bailey's",
+        "qtype": "alcohol-type",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Onigiri",
+        "qtype": "fav-food",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Dog",
+        "qtype": "save-house",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Ain't nobody got time for that",
+        "qtype": "professor",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Food",
+        "qtype": "bring-on-island",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Redrock",
+        "qtype": "bremen-bar",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Panda: white black asian ;d",
+        "qtype": "color",
+        "username": "nnguyen"
+    },
+    {
+        "answer": "69",
+        "qtype": "number",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Forrest gump",
+        "qtype": "fav-movie",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Ph\\u1edf",
+        "qtype": "fav-food",
+        "username": "nnguyen"
+    },
+    {
+        "answer": "Does the other side count? :p",
+        "qtype": "bremen-bar",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Bar celona",
+        "qtype": "bremen-bar",
+        "username": "nnguyen"
+    },
+    {
+        "answer": "Jager",
+        "qtype": "alcohol-type",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Kinga lipskoch",
+        "qtype": "professor",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Lasagna",
+        "qtype": "fav-food",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "My smartphone",
+        "qtype": "bring-on-island",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Can't stand losing you - police",
+        "qtype": "fav-song",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "La viva",
+        "qtype": "bremen-bar",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Avenged sevenfold",
+        "qtype": "fav-band",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Vanellope from \"wreck it ralph\".. so iconic.",
+        "qtype": "fav-actor",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Kinga lipskoch",
+        "qtype": "professor",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Only one sport ^o^? football, badminton, volleyball... =)",
+        "qtype": "fav-sport",
+        "username": "nnguyen"
+    },
+    {
+        "answer": "Harry potter ",
+        "qtype": "fav-book",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Patricia cornwell",
+        "qtype": "fav-author",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Always number 1 ;)",
+        "qtype": "number",
+        "username": "skiratli"
+    },
+    {
+        "answer": "The social network",
+        "qtype": "fav-movie",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Leo dicaprio",
+        "qtype": "fav-actor",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Friends",
+        "qtype": "fav-series",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Who reads books..?",
+        "qtype": "fav-book",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Zuhair murad, is gowns are killing me!",
+        "qtype": "fav-band",
+        "username": "skiratli"
+    },
+    {
+        "answer": "Linkin park",
+        "qtype": "fav-band",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Ping pong",
+        "qtype": "fav-game",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Noizy 1 selam",
+        "qtype": "fav-song",
+        "username": "kgadeshi"
+    },
+    {
+        "answer": "Cars",
+        "qtype": "toy",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Anything in latin america",
+        "qtype": "holiday",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Ice-skating",
+        "qtype": "fav-sport",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Solo pianist",
+        "qtype": "dream-job",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Gone with the wind",
+        "qtype": "fav-movie",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Lerchl",
+        "qtype": "professor",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "-",
+        "qtype": "fav-band",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Sims",
+        "qtype": "fav-game",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "I don't have plans",
+        "qtype": "future-plans",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "-",
+        "qtype": "fav-actor",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "-",
+        "qtype": "fav-song",
+        "username": "cdimulescu"
+    },
+    {
+        "answer": "Seriously? ",
+        "qtype": "life-purpose",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "stodorovik"
+    },
+    {
+        "answer": "Baccardi raz lemon",
+        "qtype": "alcohol-type",
+        "username": "ytesfamari"
+    },
+    {
+        "answer": "The bench right in front of b-block",
+        "qtype": "fav-place",
+        "username": "dhasegan"
+    },
+    {
+        "answer": "No favourite color",
+        "qtype": "color",
+        "username": "ytesfamari"
+    },
+    {
+        "answer": "Music",
+        "qtype": "bring-on-island",
+        "username": "ytesfamari"
+    },
+    {
+        "answer": "Bbc planet earth",
+        "qtype": "fav-series",
+        "username": "sshukla"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "sshukla"
+    },
+    {
+        "answer": "My bed",
+        "qtype": "fav-place",
+        "username": "oboychenko"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Clint eastwood",
+        "qtype": "fav-song",
+        "username": "iwagner"
+    },
+    {
+        "answer": "13",
+        "qtype": "number",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Attack on titan",
+        "qtype": "fav-series",
+        "username": "iwagner"
+    },
+    {
+        "answer": "Louis lagoutte",
+        "qtype": "alcohol-type",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Cheese",
+        "qtype": "fav-food",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "My books",
+        "qtype": "save-house",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Your mom",
+        "qtype": "bring-on-island",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Delhey",
+        "qtype": "professor",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Archery",
+        "qtype": "fav-sport",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Lord of the rings",
+        "qtype": "fav-movie",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Breaking bad",
+        "qtype": "fav-series",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Decaprio",
+        "qtype": "fav-actor",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Queen",
+        "qtype": "fav-band",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "September",
+        "qtype": "fav-song",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Shantaram",
+        "qtype": "fav-book",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Monopoly",
+        "qtype": "fav-game",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Phillip pullman",
+        "qtype": "fav-author",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Irc",
+        "qtype": "fav-place",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "Backbacking",
+        "qtype": "holiday",
+        "username": "llagoutte"
+    },
+    {
+        "answer": "None",
+        "qtype": "color",
+        "username": "dlindenbla"
+    },
+    {
+        "answer": "Seinfeld",
+        "qtype": "fav-series",
+        "username": "estiuler"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Pond in front of the irc",
+        "qtype": "fav-place",
+        "username": "jchaudhary"
+    },
+    {
+        "answer": "Pink",
+        "qtype": "color",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Baileys",
+        "qtype": "alcohol-type",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Phone",
+        "qtype": "bring-on-island",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Indian food",
+        "qtype": "fav-food",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Not existent",
+        "qtype": "bremen-bar",
+        "username": "mwulf"
+    },
+    {
+        "answer": "Nugent",
+        "qtype": "professor",
+        "username": "mwulf"
+    },
+    {
+        "answer": "23",
+        "qtype": "number",
+        "username": "cpana"
+    },
+    {
+        "answer": "East of eden by john steinbeck",
+        "qtype": "fav-book",
+        "username": "cpana"
+    },
+    {
+        "answer": "George orwell",
+        "qtype": "fav-author",
+        "username": "cpana"
+    },
+    {
+        "answer": "My wallet. not my laptop, everything is in the cloud.",
+        "qtype": "save-house",
+        "username": "cpana"
+    },
+    {
+        "answer": "Mountain biking",
+        "qtype": "fav-sport",
+        "username": "cpana"
+    },
+    {
+        "answer": "Suits",
+        "qtype": "fav-series",
+        "username": "cpana"
+    },
+    {
+        "answer": "Pool",
+        "qtype": "fav-game",
+        "username": "cpana"
+    },
+    {
+        "answer": "Shuriken",
+        "qtype": "toy",
+        "username": "cpana"
+    },
+    {
+        "answer": "My girlfriend's room :",
+        "qtype": "fav-place",
+        "username": "cpana"
+    },
+    {
+        "answer": "Ceo&founder at a startup",
+        "qtype": "dream-job",
+        "username": "cpana"
+    },
+    {
+        "answer": "Anywhere safe, with good local food.",
+        "qtype": "holiday",
+        "username": "cpana"
+    },
+    {
+        "answer": "Eat, love, procrastinate.",
+        "qtype": "life-purpose",
+        "username": "cpana"
+    },
+    {
+        "answer": "Get rich or die trying",
+        "qtype": "future-plans",
+        "username": "cpana"
+    },
+    {
+        "answer": "Shrimps",
+        "qtype": "fav-food",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "White",
+        "qtype": "color",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "People",
+        "qtype": "bring-on-island",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "astein"
+    },
+    {
+        "answer": "My mom's pasta",
+        "qtype": "fav-food",
+        "username": "astein"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Amaretto",
+        "qtype": "alcohol-type",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Boyfriend",
+        "qtype": "bring-on-island",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Pizza",
+        "qtype": "fav-food",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "None",
+        "qtype": "bremen-bar",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "K\\u00fchnen",
+        "qtype": "professor",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "12",
+        "qtype": "number",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Dance",
+        "qtype": "fav-sport",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Pride & prejudice",
+        "qtype": "fav-movie",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Rany",
+        "qtype": "fav-band",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Heath ledger",
+        "qtype": "fav-actor",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Roulette",
+        "qtype": "fav-song",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Die flie\\u00dfende k\\u00f6nigin",
+        "qtype": "fav-book",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Do i have to decide?",
+        "qtype": "alcohol-type",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Company",
+        "qtype": "bring-on-island",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "My dog",
+        "qtype": "save-house",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Jan delhay",
+        "qtype": "professor",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Any kind of mexican food",
+        "qtype": "fav-food",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "29",
+        "qtype": "number",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Narcotic by liquido",
+        "qtype": "fav-song",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Equestrian vaulting (gymnastics on horseback)",
+        "qtype": "fav-sport",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Pulp fiction",
+        "qtype": "fav-movie",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Paramore",
+        "qtype": "fav-band",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Hugh jackman",
+        "qtype": "fav-actor",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Tintenherz (inkheart) triology",
+        "qtype": "fav-book",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Cornelia funke",
+        "qtype": "fav-author",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Twister",
+        "qtype": "fav-game",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "How i met your mother",
+        "qtype": "fav-series",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Anything that includes a lot of sun and some water",
+        "qtype": "holiday",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Dirt",
+        "qtype": "toy",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Spread happiness",
+        "qtype": "life-purpose",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Marine biologist and chilling with dolphins (won't happen)",
+        "qtype": "dream-job",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Change the world!",
+        "qtype": "future-plans",
+        "username": "dschwinden"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "rbors"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "rbors"
+    },
+    {
+        "answer": "Sushi",
+        "qtype": "fav-food",
+        "username": "rbors"
+    },
+    {
+        "answer": "Purple",
+        "qtype": "color",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Fish",
+        "qtype": "fav-food",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Family",
+        "qtype": "save-house",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Phone",
+        "qtype": "bring-on-island",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "8",
+        "qtype": "number",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Ney",
+        "qtype": "professor",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Loft",
+        "qtype": "bremen-bar",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Johnny depp",
+        "qtype": "fav-actor",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Tennis",
+        "qtype": "fav-sport",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "The butterfly effect",
+        "qtype": "fav-movie",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "The house of spirits",
+        "qtype": "fav-book",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Isabel allende",
+        "qtype": "fav-author",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-band",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "No clue",
+        "qtype": "fav-song",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Suits",
+        "qtype": "fav-series",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Back home",
+        "qtype": "holiday",
+        "username": "dfernandez"
+    },
+    {
+        "answer": "Jagermeister",
+        "qtype": "alcohol-type",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Momo",
+        "qtype": "fav-food",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "A dvd of all 10 seasons of friends :d",
+        "qtype": "bring-on-island",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Miranda kerr",
+        "qtype": "save-house",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Bolero",
+        "qtype": "bremen-bar",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Inception",
+        "qtype": "fav-movie",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Dr. mathias bode",
+        "qtype": "professor",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "007",
+        "qtype": "number",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Leonardo dicaprio",
+        "qtype": "fav-actor",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Football",
+        "qtype": "fav-sport",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Pink floyd",
+        "qtype": "fav-band",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Wish you were here",
+        "qtype": "fav-song",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "The alchemist",
+        "qtype": "fav-book",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Not dan brown",
+        "qtype": "fav-author",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Dumb charades",
+        "qtype": "fav-game",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Friends/seinfeld",
+        "qtype": "fav-series",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Hot wheels",
+        "qtype": "toy",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Leading a startup.",
+        "qtype": "dream-job",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Http://img.pandawhale.com/post-15337-christian-bale-confused-reacti-dvic.gif",
+        "qtype": "future-plans",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "42",
+        "qtype": "life-purpose",
+        "username": "btiwaree"
+    },
+    {
+        "answer": "Kai meyer",
+        "qtype": "fav-author",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "None",
+        "qtype": "fav-series",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Life",
+        "qtype": "fav-game",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Pond",
+        "qtype": "fav-place",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "No idea",
+        "qtype": "holiday",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "None",
+        "qtype": "toy",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Undecided",
+        "qtype": "dream-job",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Life itself",
+        "qtype": "life-purpose",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Live, love, hope",
+        "qtype": "future-plans",
+        "username": "pbloeth"
+    },
+    {
+        "answer": "Haggis",
+        "qtype": "fav-food",
+        "username": "cbolland"
+    },
+    {
+        "answer": "Whisky",
+        "qtype": "alcohol-type",
+        "username": "cbolland"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "cbolland"
+    },
+    {
+        "answer": "Mother",
+        "qtype": "save-house",
+        "username": "cbolland"
+    },
+    {
+        "answer": "Pegassos",
+        "qtype": "bremen-bar",
+        "username": "cbolland"
+    },
+    {
+        "answer": "Ncis",
+        "qtype": "fav-series",
+        "username": "nkolev"
+    },
+    {
+        "answer": "My dog",
+        "qtype": "save-house",
+        "username": "angiurgiu"
+    },
+    {
+        "answer": "Campus green at night",
+        "qtype": "fav-place",
+        "username": "uagha"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "cmcdonald"
+    },
+    {
+        "answer": "Wohnzimmer",
+        "qtype": "bremen-bar",
+        "username": "cmcdonald"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "cmcdonald"
+    },
+    {
+        "answer": "Tacos",
+        "qtype": "fav-food",
+        "username": "cmcdonald"
+    },
+    {
+        "answer": "A volleyball",
+        "qtype": "bring-on-island",
+        "username": "cmcdonald"
+    },
+    {
+        "answer": "Ballantines",
+        "qtype": "alcohol-type",
+        "username": "ssherko"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "ssherko"
+    },
+    {
+        "answer": "...",
+        "qtype": "fav-food",
+        "username": "ssherko"
+    },
+    {
+        "answer": "Gym",
+        "qtype": "fav-place",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Hannibal, castle, fringe",
+        "qtype": "fav-series",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "To be happy",
+        "qtype": "life-purpose",
+        "username": "ikafedjisk"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "dhashweh"
+    },
+    {
+        "answer": "Vodka",
+        "qtype": "alcohol-type",
+        "username": "dhashweh"
+    },
+    {
+        "answer": "Milk",
+        "qtype": "alcohol-type",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "A friend",
+        "qtype": "bring-on-island",
+        "username": "dhashweh"
+    },
+    {
+        "answer": "Netto",
+        "qtype": "bremen-bar",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "All food",
+        "qtype": "fav-food",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Cats",
+        "qtype": "bring-on-island",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Cat",
+        "qtype": "save-house",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Cat",
+        "qtype": "professor",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Cat",
+        "qtype": "number",
+        "username": "dkuhnle"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "dperera"
+    },
+    {
+        "answer": "Bacardi rum",
+        "qtype": "alcohol-type",
+        "username": "dperera"
+    },
+    {
+        "answer": "Sri lankan lentil curry",
+        "qtype": "fav-food",
+        "username": "dperera"
+    },
+    {
+        "answer": "A boat",
+        "qtype": "bring-on-island",
+        "username": "dperera"
+    },
+    {
+        "answer": "Alexander lerchl",
+        "qtype": "professor",
+        "username": "dperera"
+    },
+    {
+        "answer": "Id put out the fire",
+        "qtype": "save-house",
+        "username": "dperera"
+    },
+    {
+        "answer": "Cabra",
+        "qtype": "bremen-bar",
+        "username": "dperera"
+    },
+    {
+        "answer": "21",
+        "qtype": "number",
+        "username": "dperera"
+    },
+    {
+        "answer": "Sex\\",
+        "qtype": "fav-sport",
+        "username": "dperera"
+    },
+    {
+        "answer": "1",
+        "qtype": "number",
+        "username": "milie"
+    },
+    {
+        "answer": "My room",
+        "qtype": "fav-place",
+        "username": "milie"
+    },
+    {
+        "answer": "Tbbt",
+        "qtype": "fav-series",
+        "username": "milie"
+    },
+    {
+        "answer": "42",
+        "qtype": "life-purpose",
+        "username": "milie"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Black",
+        "qtype": "color",
+        "username": "anicolae"
+    },
+    {
+        "answer": "My laptop",
+        "qtype": "save-house",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Meat",
+        "qtype": "fav-food",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Food, books, laptop, playstation",
+        "qtype": "bring-on-island",
+        "username": "anicolae"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Paddys",
+        "qtype": "bremen-bar",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Michael bau",
+        "qtype": "professor",
+        "username": "anicolae"
+    },
+    {
+        "answer": "Ping pong",
+        "qtype": "fav-sport",
+        "username": "estiuler"
+    },
+    {
+        "answer": "Whiskey",
+        "qtype": "alcohol-type",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Laptop",
+        "qtype": "save-house",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Wohnzimmer",
+        "qtype": "bremen-bar",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "7",
+        "qtype": "number",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Herbert jaeger",
+        "qtype": "professor",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Table tennis",
+        "qtype": "fav-sport",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Scent of a woman",
+        "qtype": "fav-movie",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Green",
+        "qtype": "color",
+        "username": "aprondzins"
+    },
+    {
+        "answer": "Bailey's",
+        "qtype": "alcohol-type",
+        "username": "aprondzins"
+    },
+    {
+        "answer": "Sushi",
+        "qtype": "fav-food",
+        "username": "aprondzins"
+    },
+    {
+        "answer": "Wine",
+        "qtype": "alcohol-type",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Sushi",
+        "qtype": "fav-food",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "2c-b",
+        "qtype": "bring-on-island",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Paddy's",
+        "qtype": "bremen-bar",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Inception",
+        "qtype": "fav-movie",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "My dollar bill",
+        "qtype": "save-house",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Ney",
+        "qtype": "professor",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "18",
+        "qtype": "number",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Swimming",
+        "qtype": "fav-sport",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Idk",
+        "qtype": "fav-actor",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Idk",
+        "qtype": "fav-song",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Way of the peaceful warrior",
+        "qtype": "fav-book",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Idk",
+        "qtype": "fav-band",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Jos\\u00e9 saramago",
+        "qtype": "fav-author",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Scandal",
+        "qtype": "fav-series",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "2048",
+        "qtype": "fav-game",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Campus green",
+        "qtype": "fav-place",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Unemployed",
+        "qtype": "dream-job",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Beach.",
+        "qtype": "holiday",
+        "username": "vbrazao"
+    },
+    {
+        "answer": "Indigo",
+        "qtype": "color",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Gin",
+        "qtype": "alcohol-type",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Your soul.",
+        "qtype": "fav-food",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "The house",
+        "qtype": "save-house",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Blauer fasan",
+        "qtype": "bremen-bar",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "A portal gun",
+        "qtype": "bring-on-island",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Not antoulas",
+        "qtype": "professor",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "6",
+        "qtype": "number",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Hunting",
+        "qtype": "fav-sport",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Das cabinet des dr. caligari",
+        "qtype": "fav-movie",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "David bowie",
+        "qtype": "fav-actor",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Shake the disease",
+        "qtype": "fav-song",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Neil gaiman",
+        "qtype": "fav-author",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Under your bed",
+        "qtype": "fav-place",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Connan mockasin",
+        "qtype": "fav-band",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Harry potter and the order of the phoenix",
+        "qtype": "fav-book",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Robot chicken",
+        "qtype": "fav-series",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Half life :'(",
+        "qtype": "fav-game",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Holidays that are never in the weekends",
+        "qtype": "holiday",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Xylophone",
+        "qtype": "toy",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Realizing that there is no purpose",
+        "qtype": "life-purpose",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Performance artist",
+        "qtype": "dream-job",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Dying before getting wrinkly",
+        "qtype": "future-plans",
+        "username": "lkiziler"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "ltorres"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "ltorres"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "yzhu"
+    },
+    {
+        "answer": "Desperado",
+        "qtype": "alcohol-type",
+        "username": "yzhu"
+    },
+    {
+        "answer": "Computer",
+        "qtype": "save-house",
+        "username": "yzhu"
+    },
+    {
+        "answer": "Apetito",
+        "qtype": "fav-food",
+        "username": "yzhu"
+    },
+    {
+        "answer": "Computer",
+        "qtype": "bring-on-island",
+        "username": "yzhu"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "sim"
+    },
+    {
+        "answer": "Money",
+        "qtype": "bring-on-island",
+        "username": "musaeed"
+    },
+    {
+        "answer": "Breaking bad",
+        "qtype": "fav-series",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "Tennis courts :p",
+        "qtype": "fav-place",
+        "username": "bbharadwaj"
+    },
+    {
+        "answer": "The irc 3rd floor, on a sunny day",
+        "qtype": "fav-place",
+        "username": "slal"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "fav-actor",
+        "username": "tpllaha"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "skazmi"
+    },
+    {
+        "answer": "Beer",
+        "qtype": "alcohol-type",
+        "username": "dacharya"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "mfieraru"
+    },
+    {
+        "answer": "Jack",
+        "qtype": "alcohol-type",
+        "username": "mfieraru"
+    },
+    {
+        "answer": "Salmon",
+        "qtype": "fav-food",
+        "username": "mfieraru"
+    },
+    {
+        "answer": "Blue",
+        "qtype": "color",
+        "username": "grai"
+    },
+    {
+        "answer": "Red",
+        "qtype": "color",
+        "username": "ppoudel"
+    },
+    {
+        "answer": "13",
+        "qtype": "number",
+        "username": "ppoudel"
+    }
+]

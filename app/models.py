@@ -20,8 +20,8 @@ class Student(User):
 	college = models.CharField(max_length=1,
 									choices=COLLEGES,
 									default=MERCATOR)
-	room = models.CharField(max_length = 6)
-	phone = models.CharField(max_length = 100)
+	room = models.CharField(max_length = 6, blank=True, null=True)
+	phone = models.CharField(max_length = 100, blank=True, null=True)
 	country = models.CharField(max_length = 100)
 	majorinfo = models.CharField(max_length = 100)
 	majorlong = models.CharField(max_length = 100)
