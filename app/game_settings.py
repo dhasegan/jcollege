@@ -210,6 +210,13 @@ def is_propose_question():
     return random.random() < (1.0 / 1000)
 
 def should_ask_question(nr_q_ans, nr_q_avail, level):
+    if level <= MAX_LEVEL:
+        if nr_q_ans >= get_special_questions_showed(level + 1):
+            return False
+        else:
+            pass
+    else:
+        return False
     return random.random() < 1.0/(31.69 * math.atan(level) / 2)
     # if nr_q_avail == 0:
     #     if nr_q_ans > get_special_questions_showed(4):
