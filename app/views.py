@@ -321,6 +321,7 @@ def admin_page(request):
     context['special_questions'] = specialq_list
 
     context['students'] = sorted(slist, key=lambda x:x['student'].points, reverse=True)
+    context['top_colleges'] = get_top_colleges()
     return render(request, "pages/admin_page.html", context)
 
 def user_authenticated(request):

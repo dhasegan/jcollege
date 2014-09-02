@@ -2,6 +2,104 @@
 
 
 {% block content %}
+
+
+<div class="panel panel-default">
+        <div class="panel-heading panel-score-heading">
+          <ul class="nav nav-tabs nav-justified">
+            <li class="active"><a href="#college-rating" data-toggle="tab">College Ratings</a></li>
+            {% if popular_colleges %}
+                <li ><a href="#college-popularity" data-toggle="tab">College Popularity</a></li>
+            {% endif %}
+          </ul>
+        </div>
+        <div class="panel-body">
+            <div class="tab-content">
+              <div class="tab-pane in active" id="college-rating">
+                <table class="table no-margin">
+                    {% with col=top_colleges.0 %}
+                        <thead>  
+                          <tr>
+                                <th>
+                                    <img class="college-icon" src="{{ STATIC_URL }}images/{{col.name}}.jpg" alt="{{ col.name }}">
+                                </th>
+                                <th>
+                                    {{ col.name }}
+                                </th>
+                                <th>
+                                    {{ col.points }}
+                                </th> 
+                          </tr>  
+                        </thead>
+                    {% endwith %}
+
+                    <tbody>
+                        {% for col in top_colleges %}
+                            {% if not forloop.first %}
+                            <tr>
+                                <td>
+                                    <img class="college-icon" src="{{ STATIC_URL }}images/{{col.name}}.jpg" alt="{{ col.name }}">
+                                </td>
+                                <td>
+                                    {{ col.name }}
+                                </td>
+                                <td>
+                                    {{ col.points }}
+                                </td>
+                            </tr>
+                            {% endif %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+              </div>
+              {% if popular_colleges %}
+              <div class="tab-pane" id="college-popularity">
+                <table class="table no-margin">
+                    {% with col=popular_colleges.0 %}
+                        <thead>  
+                          <tr>
+                                <th>
+                                    <img class="college-icon" src="{{ STATIC_URL }}images/{{col.name}}.jpg" alt="{{ col.name }}">
+                                </th>
+                                <th>
+                                    {{ col.name }}
+                                </th>
+                                <th>
+                                    {{ col.stats }}
+                                </th> 
+                          </tr>  
+                        </thead>
+                    {% endwith %}
+
+                    <tbody>
+                        {% for col in popular_colleges %}
+                            {% if not forloop.first %}
+                            <tr>
+                                <td>
+                                    <img class="college-icon" src="{{ STATIC_URL }}images/{{col.name}}.jpg" alt="{{ col.name }}">
+                                </td>
+                                <td>
+                                    {{ col.name }}
+                                </td>
+                                <td>
+                                    {{ col.stats }}
+                                </td>
+                            </tr>
+                            {% endif %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+              </div>
+              {% endif %}
+            </div>
+      </div>
+    </div>
+
+
+
+
+
+
 <div class="question-content row">
     <div class="col-md-8">
         <div class="panel panel-default">
@@ -13,6 +111,9 @@
                     <thead>
                       <tr>
                             <th>
+                            </th>
+                            <th>
+                                P
                             </th>
                             <th>
                                 Name
@@ -38,6 +139,9 @@
                                 <td>
                                     {{ forloop.counter }}
                                 </td>
+                                <th>
+                                    <img class="college-icon" src="{{ st.student.photourl }}" alt="asd">
+                                </th>
                                 <td>
                                     {{ st.student.fname }} {{ st.student.lname }}
                                 </td>
